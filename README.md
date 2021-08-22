@@ -1,3 +1,5 @@
+#### GitHub Logos and Usage: https://github.com/logos
+
 # Branding assets of SurPath Hub
 
 ![logo](https://user-images.githubusercontent.com/73097560/128586926-ada0e8f9-2b26-449b-925b-8ffdf827fb08.png)
