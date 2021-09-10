@@ -1,5 +1,5 @@
 # Brand Asset for SurPath Hub
-#### We've assembled a few resources for those occasions when you need to flaunt your GitHub incorporation or connection back to us. Happy soaring!
+#### We've assembled a few resources for those occasions when you need to flaunt your SurPath Hub incorporation or connection back to us. Happy soaring!
 
 
 ## Contents
