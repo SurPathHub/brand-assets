@@ -9,19 +9,40 @@
 	- Surpath Hub Logos
 	- Vinz Logo
 
+---
+## SurPath Hub Covers
+<div align="center">
+  <img  width="950" height="400" src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/Surpath%20Hub%20Covers/Cover_2.png?raw=true">
+</div>
+<div align="center">
+  <img  width="950" height="460" src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/Surpath%20Hub%20Covers/Cover_1.png?raw=true">
+</div>
 
 ---
 	
 ## SurPath Hub Logo
 
-<p align="center">
-  <img width="460" height="460" src="https://raw.githubusercontent.com/SurPathHub/brand-assets/main/Resources/SurPath%20Hub%20Logos/SPH_transparent.png">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SurPathHub/brand-assets/main/Resources/SurPath%20Hub%20Logos/SPH_transparent.png">
+</div>
+<div align="center">
+  <img src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/SurPath%20Hub%20Logos/SPH_White_transparent.png?raw=true">
+</div>
+<div align="center">
+  <img src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/SurPath%20Hub%20Logos/Logo_1.png?raw=true">
+</div>
 
 ---
 
 ## Vinz Logo
-![Vinz_Logo](https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png)
+<div align="center">
+	 <img src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/Vinz%20Logo/Vinz_1.png?raw=true">
+
+</div>
+<div align="center">
+	 <img src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/Vinz%20Logo/Vinz_2.png?raw=true">
+
+</div>
 
 ---
 	
