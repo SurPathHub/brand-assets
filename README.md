@@ -4,7 +4,8 @@
 
 - Resources
 	- SurPath Hub Covers
-	- Surpath Hub Logos
+	- SurPath Hub Hacktoberfest Assets
+	- SurPath Hub Logos
 	- Vinz Logo
 
 
