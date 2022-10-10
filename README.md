@@ -35,18 +35,6 @@
 </div>
 
 ---
-
-## Vinz Logo
-<div align="center">
-	 <img src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/Vinz%20Logo/Vinz_1.png?raw=true">
-
-</div>
-<div align="center">
-	 <img src="https://github.com/SurPathHub/brand-assets/blob/main/Resources/Vinz%20Logo/Vinz_2.png?raw=true">
-
-</div>
-
----
 	
 Do these marvelous things | Kindly don't do these things
 ------------------------- | ----------------------------
